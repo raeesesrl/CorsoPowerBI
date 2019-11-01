@@ -1,0 +1,43 @@
+---------------------------------Values
+"Hello World!"
+
+---------------------------------Values
+=1+1
+
+-------------------------------Expressions
+=Expression.Evaluate("6+6")
+
+------------------------------Record Types
+[Speaker1="parenzan", Speaker2="pozzan"]
+
+------------------------------Record Types
+= [       
+    Man = [Athletic = 10 , NonAthletic = 50 ],
+    Woman = [Athletic = 20 , NonAthletic = 40 ]
+]
+
+------------------------------Record Types
+[       
+    Man = [Athletic = 10 , NonAthletic = 50 ],
+    Woman = [Athletic = 20 , NonAthletic = 40 ],
+	Total = Man[Athletic] + Woman[Athletic]
+] 
+
+-------------------------------List types
+= {"Apples", "Oranges", "Pears"}
+= {1..5}	
+
+----------------------------Let expressions
+= let
+    firstStep = 1+1,
+    secondstep = firstStep *20
+in 
+secondstep
+
+----------------------------Let expressions + lists
+= let
+    Fruit = {"Apples", "Oranges", "Pears"},
+    Numbers = {1..5}	
+in
+    Fruit{1}
+

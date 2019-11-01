@@ -1,0 +1,6 @@
+devcignum.database.windows.net
+cignum
+**********
+SalesOrderHeader
+SalesOrderDetail
+
