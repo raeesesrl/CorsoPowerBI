@@ -4,8 +4,8 @@ DAX:
 DimDate = 
 ADDCOLUMNS (
     CALENDAR(
-        DATE(year(MIN(FactInternetSales[date]));1;1);
-        DATE(year(max(FactInternetSales[date]));12;31)
+        DATE(year(MIN(FactInternetSales[OrderDate]));1;1);
+        DATE(year(max(FactInternetSales[OrderDate]));12;31)
         );
     "DateAsInteger"; FORMAT ( [Date]; "YYYYMMDD" );
 "Year"; YEAR ( [Date] );
