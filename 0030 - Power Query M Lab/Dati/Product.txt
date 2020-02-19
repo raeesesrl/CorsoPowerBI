@@ -1,0 +1,23 @@
+Product	ProductCategory
+Alpine	Beginner
+Aspen	Beginner
+Bellen	Beginner
+Bower Aussie Round	Competition
+Carlota	Beginner
+Carlota Doublers	Freestyle
+Crested Beaut	Intermediate
+Darnell Tri Fly	Beginner
+Eagle	Intermediate
+Fire Aspen	Advanced
+Frido Fast Catch	Competition
+Fun Fly	Beginner
+GelFast	Competition
+Majestic Beaut	Intermediate
+Manu LD	Advanced
+Manu MTA	Competition
+Phoenix	Intermediate
+Quad	Freestyle
+Sunset	Competition
+Sunshine	Beginner
+Sunspot	Novelty
+Yanaki	Intermediate
